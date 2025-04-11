@@ -10,7 +10,7 @@ body{background-color: black;}
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("./image01/heroimage.webp"); 
+  background-image: url("../image01/heroimage.webp"); 
   background-size: cover;
   background-position: center;
   height: 100vh; 
@@ -690,7 +690,7 @@ body .consoles, body .peripherals {
 body .games {
   margin: 0; 
   padding: 0;
-  background-image: url("./image01/image.webp"); 
+  background-image: url("../image01/image.webp"); 
   background-size: cover;
   background-repeat: no-repeat; 
   background-position: center;
@@ -817,7 +817,7 @@ body .games {
 body .faqs {
   margin: 0; 
   padding: 0; 
-  background-image: url("./image01/image2.webp");
+  background-image: url("../image01/image2.webp");
   background-size: cover; 
   background-repeat: no-repeat; 
   background-position: center; 
