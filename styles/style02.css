@@ -718,6 +718,10 @@ body .games {
   color: white;
 }
 
+.game-card p strong {
+  line-height:2.5;
+}
+
 .gaming-page {
   padding: 10px;
 }
