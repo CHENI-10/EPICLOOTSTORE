@@ -553,7 +553,7 @@ ul li, ol li {
 body .consoles, body .peripherals {
   margin: 0; 
   padding: 0;
-  background-image: url("./image01/gaming2.webp"); 
+  background-image: url("../image01/gaming2.webp"); 
   background-size: cover; 
   background-repeat: no-repeat; 
   background-position: center; 
@@ -701,18 +701,10 @@ body .games {
 .games h2 {
   text-align: center;
   padding: 20px;
-  color: rgb(4, 161, 161);
+  color:  rgb(4, 254, 254);
   margin-top: 10px;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.games p{
-  margin-left: 10px;
-  margin-right: 10px;
-   color:#f7f7f7ee;
-   text-align: center;
-   margin-bottom: 20px;
-}
-
 .game-card h2 {
   text-align: center;
   padding: 20px;
@@ -723,7 +715,7 @@ body .games {
 
 .game-card p {
   text-align: justify;
-  color: black;
+  color: white;
 }
 
 .gaming-page {
@@ -733,7 +725,7 @@ body .games {
 .game-card {
   display: flex;
   align-items: center;
-  background-color: rgb(12, 234, 234);
+  background-color:black;
   margin-bottom: 15px;
   padding: 15px;
   border-radius: 8px;
